@@ -1,16 +1,14 @@
 # AcornDocsRemade
 
-This repository contains reconstructed versions of internal Acorn technical documents, based on scans and files originally made public via the Stardot forums.
+This repository contains reconstructed versions of Acorn-related documentation, divided into:
 
-These are not facsimiles but remakes: faithful in style to the originals, rebuilt as searchable PDFs with minor corrections for archival and reference use.
+- `AcornInternal/` - Remade internal Acorn technical documents.
+- `DabsMOS/` - Remade edition and preserved scan of *Master Operating System: A Dabhand Guide* (Second Edition, Dabs Press, 1988).
 
-Each PDF includes a short preface outlining its source and any changes made during reconstruction.
-
-These remakes were first published at:  
-https://www.stardot.org.uk/forums/viewtopic.php?t=28898
+Each subdirectory includes a README with further details.
 
 ## Disclaimer
 
-While the reconstruction work is my own, the underlying content remains the property of its original rights holders.
+Reconstruction work is provided for educational and archival purposes.  
+All original rights remain with their respective owners.
 
-If you are a rights holder and have concerns about inclusion, please contact me to discuss removal or attribution.
