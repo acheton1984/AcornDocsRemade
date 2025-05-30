@@ -1,0 +1,148 @@
+Update: AUGUST 1982
+
+BBC computer literacy project
+
+The aim of the BBC Computer Literacy Project is to introduce interested adults and younger students to the world of computers and computing, and to provide the opportunity for viewers to learn through direct experience how to program and use a microcomputer. The project is built around two ten-part television series, and includes a book, a linked microcomputer system complete with User Guide, a range of applications programs, and associated courses in programming in BASIC, and other aspects of computing, provided by the National Extension College, in Cambridge.
+
+The project forms part of a long-term commitment by BBC Education to public information in the broad field of micro electronics, which has included the three-part series 'The Silicon Factor', the five-part series on applications of computers in business and industry, 'Managing the Micro' and some programmes on the implications of microelectronics for teachers, 'Micros in Education'. For details of future radio and television series see below.
+
+THE FIRST TELEVISION SERIES
+
+The ten television programmes, entitled 'The Computer Programme', are designed to be useful both to home-users and to viewers in schools and colleges. The programmes are presented by Chris Serle and Ian McNaught Davies, and were first transmitted between January and March 1982. For home viewers the series is being repeated on BBC-1 on Sunday mornings at 1235, from October 10th to December 12th 1982. For schools and colleges it is being transmitted on Mondays on BBC-2, at 1505, from October 11th to December 13th 1982. Teachers notes will be available from the address given on page 8.
+
+Although viewers who possess a BBC Microcomputer (see below) will be able to try out the examples shown in the programmes on their own equipment, the programmes are designed to be of interest and value either to people who own other micro- computers, or to those who do not have access to a computer at all.
+
+The series aims to illustrate and explain the fundamentals of computing at both a practical and a theoretical level. The programmes are built around themes and the examples of what computers can be used for are drawn from a wide range in the real world. Although the use of various large and small com puters is shown we aim to illustrate principles through the use of microcomputers wherever possible (see also the note on the supporting software for the BBC system).
+
+The series is designed above all to be accessible to absolute beginners. The studio demonstrations offer insights into the use of the personal microcomputer and, since Chris Serle is himself introduced to the techniques from scratch, this should encourage the audience to feel that they could perform similar tasks if they had access to a machine. The explana- tion and use of a computer language arises naturally out of the themes of the series, and each programme contains a practical illustration of the use of BASIC coding.
+
+Viewers who buy the book or follow the course should be able to go rather further into the subject; but since in the end the only way one can learn about computing in any depth is to gain practical experience of it, the hardware and software of the BBC Microcomputer System is being specially provided in order to create the opportunity for direct "hands-on" experience.
+
+THE SECOND TELEVISION SERIES
+
+The second television series, provisionally entitled "Make the Most of your Micro", is to be transmitted for home viewers, on Sunday mornings on BBC-1 at 1235 from January 9th to March 13th 1983. It will be repeated for schools and colleges on BBC-2 on Mondays at 1505, from January 10th to March 14th. The series is presented by Ian McNaught Davies.
+
+Whereas 'The Computer Programme' provided a general introduc- tion to computing, especially for those with no previous knowledge or experience, the second series is aimed more at owners of machines, or those about to take a serious plunge into the world of personal computing. Controversy reigns about the value of teaching programming, but there is growing evidence that provided the details of coding are seen as the last stage of a process of problem solving, the route to computer literacy is through "hands-on" experience. Some of this may be through ready-made programs, and some through do-it-yourself programming; this series will consider both routes. It will show a range of machines being used for many purposes, and will use the BBC microcomputer to explore basic principles.
+
+The details of the series are still being worked out, but it is likely to include such themes as problem solving, program management and structures, graphics, sound, data-processing and business applications, control, and communications.
+
+The series will be supported by a range of specially written applications packages, to be available from January 1983 from BBC Publications.
+
+SOFTWARE SPECIFICATION
+
+All parts of the project use the same dialect of BASIC. The BBC BASIC specification is fairly standard, close to a number of BASICs. There is a powerful BASIC interpreter, with a number of extensions; these include long variable names, integer type and extensive string operations. Attention has been paid to the need for structures and the BBC BASIC supports IF... THEN... ELSE, REPEAT... UNTIL, and multi-line named functions and procedures with local variable declarations. Assembly language routines can be written into a BASIC program and high resolution colour graphics are particularly well supported. There are numerous other powerful extensions. A number of minor modifications to the language specification have been made since it was first issued in April 1981. A re-issue of the specification is available.
+
+THE COMPUTER BOOK
+
+This looks at the wide range of practical things computers can do and, broadly, at how they work. There are sections on personal computing - what's possible and what's not - and an introduction to problem solving in plain English, leading to a section introducing the basic principles of computer programming. The book is available (price £6.75) in bookshops and from BBC Publications, 35 Marylebone High Street, London W1M 4AA.
+
+THE NEC COURSES
+
+The National Extension College is providing a 30-hour introductory course in programming in BASIC in association with the BBC project (with which it is software compatible). It is possible to follow the course as a home-based correspondence student, to use it as a flexi-study course with a combination of home-based work and work in a supporting college, or simply to buy and use the course material independently.
+
+The course is linked to a network of local colleges where individuals can have access to machines and tuition if they wish.
+
+This is the first of a range of computing courses provided by the NEC, which will include courses on more advanced BASIC programming, assembly language, and control.
+
+For details of these courses, and of supporting services, write to: THE NATIONAL EXTENSION COLEGE, 18 Brooklands Avenue, Cambridge, CB2 2HN.
+
+OPEN UNIVERSITY COURSES
+
+The Open University offers a wide range of self-study courses in computing, computer science and microtechnology. These include two short courses, complete with kits for practical and experimental work, on micro-processor applications. One is for managers thinking of introducing micros into projects and the other for engineers designing them into products.  For full details, write to: The Open University, FREEPOST, P.O. Box 188, Sherwood House, Milton Keynes, MK3 6HH. Or phone 0908-79058 (24-hour answer service).
+
+Also offered are nine-month courses such as Computing and Computers, Computer Based Information Systems, and the Digital Computer. For schools thinking of strengthening their computer studies curriculum, a major new course for teachers and a special microprocessor development kit will be offered shortly. All OU courses are for study in the student's own time and entry is on a 'first come, first served' basis. For details of these courses, write to: Associate Student Central Office (ASCO) The Open University, Walton Hall, Milton Keynes, MK7 6AA.
+
+THE BBC MICROCOMPUTER SYSTEM
+
+The BBC Microcomputer system consists of two alternative models of a microcomputer (which can both use either a domestic TV receiver or a monitor as the display unit), a range of expansion options, a Teletext receiver, a Viewdata option, and a disk system.
+
+1. The Microcomputer (price £299)
+The standard model of the microcomputer is based on a 2 MHz 6502 microprocessor with 16k of RAM and 32k ROM; the ROM includes a 16k BASIC and a 15k operating system. The system has a variety of eight different display modes, notably a teletext mode, a 40 x 25 characters mode, and a 320 x 256 high resolution graphics mode; it can display up to eight colours.
+
+The system has cassette, television, and video interfaces, and a full travel keyboard. It has been designed with the capability for substantial expansion in terms of RAM, second processor, and high-speed communication to other computers.
+
+The enhanced model of the microcomputer (price £399) has the following additional features; 640 x 256 high resolution graphics, memory extension to 32k RAM, A-D interfaces, Centronics (printer) interface, RS423 (5-0-5V) interface, 'Tube' and Bus connector. These will permit users to interface their equipment with a wide range of existing peripherals, including, for instance, printers.
+
+A User Guide, which includes a reference section on the BASIC, a guide to programming, and a range of simple introductory programs, is boxed in with both models of the microcomputer and included in the price. It is also separately available.
+
+A 'Welcome Package' of software, on cassette, is included in the price of each machine. This contains a series of introductory programmes which will take the first-time user through the range of facilities offered by the microcomputer.
+
+2. Additional interfaces
+
+- a disk interface is available, which can be connected to a range of disk drives.
+
+- a networking interface is available from September 1982.  This makes it possible to connect a number of microcomputers to each other, and to a central disk system or printer.
+
+3. Second processor expansion options
+
+There will be a range of expansion options available in a separate case.
+
+- a second 8-bit processor (3 MHz 6502 with additional 64k RAM).
+- a second 8-bit processor (Z-80 with additional 64k RAM).
+- a further 16-bit microprocessor (with additional 128k of RAM).
+
+The 8-bit processors will be available from December 1982 and the 16-bit from March 1983.
+
+4. Disk expansion options
+
+- through the disk interface option it will be possible to use the system in association with a range of available disk drives.  Two disk drives will be available as part of the system; a 5¼" single-sided disk drive providing 100k storage, and a 5¼" double-sided double-track density drive, giving approximately 800k storage.
+
+- through the Z-80 second processor expansion it will be possible to use the microcomputer in association with CPM® systems.  This will make it possible to run and store CP/M® applications programs.
+
+(Note: CP/M is a registered trademark of Digital Research)
+
+5. Teletext Receiver - available from October/November 1982
+
+The Teletext Receiver will be contained in a separate case, and will be capable of receiving teletext transmissions from the BBC and IBA for display on a domestic TV receiver, and of down-loading computer programs, transmitted in the form of telesoftware, directly into the memory of either model of the microcomputer. There will also be a Viewdata Terminal which will provide access to British Telecom's Prestel databank.  Experimental transmissions on CEEFAX of telesoftware for development purposes have already begun, and the Council for Educational Technology are currently experimenting with a telesoftware service through PRESTEL.
+
+6. Servicing
+
+A network of over 50 retailers are providing servicing support.  This network is well spread throughout the country. Details are provided to purchasers of the equipment.
+
+7. Magazine
+
+A monthly magazine for users of the BBC Microcomputer System - Acorn User - is now being published. It is designed to provide up to date and accurate information to users, and is available from booksellers, or by subscription, from
+
+Acorn User, Magsub, Ground Floor Post Room, Oakfield House, Perrymount Road, Haywards Heath, West Sussex, RH16 3DH.
+
+BBC APPLICATIONS SOFTWARE
+
+A range of applications packages, available on cassette and later on disk, is being developed at the same time as the computer system. In addition to the 'Welcome Package', which is included within the price of each microcomputer, there will be an initial inventory of nine simple packages, available from August 1982, which are intended to reinforce understanding of the principles of computing explored elsewhere within the project. This will include:
+
+- two Computer Programme guide packages, designed to illustrate and reinforce the ideas presented in the TV series
+- a home finance package
+- two graphics packages
+- a music package
+- two games packages
+- programs to develop early learning skills
+
+Later in the year and early in 1983 a range of more substantial programs will become available, including games, programs for teachers and students, programs of practical use in the home, programs for hobbyists, programs which should be of practical use to small businesses and a range of programs to support the second television series. Programs currently being considered include a word-processing package, an enhanced graphics package, a VAT package, a high-level language utility, energy-saving calculations, a more advanced music package, further educational packages, an astronomy package etc.
+
+Some of these programs will be available in printed form, some in recorded form on disk or cassette, and some through telesoftware (see below). Some of this software is being specially written, and some is being adapted from existing programs, and the BBC is actively interested in any available software which may be suitable for this system. Guidelines for software writers are available from the BBC.
+
+Some of the simpler software will run, with little or no modification, on various other machines. Software requiring high-resolution graphics or sound is unlikely to be compatible for the time being at least. Details of the full BBC Software List will be announced as they become available.
+
+TELESOFTWARE
+
+Telesoftware is the transmission of computer programs by a broadcast signal, or by cable, in a form in which they can be down-loaded automatically into the memory of a microcomputer.  The BBC will be providing a telesoftware service from October 1982, and owners of teletext receivers, as add-ons to their BBC microcomputers, will be able to use this service as a source, just as they use cassettes, or disks, or printed listings. If you have access to a TV set with a teletext facility you will find a Telesoftware Newsletter on page 705 which gives a good deal of up to date information about the Computer Literacy Project, and various experimental programs on pages 702, 703 and 704. These are written in BASIC, but they may look unfamiliar because they have been compacted, so as to save transmission time. It is planned to start a broadcast telesoftware service from October onwards, with programs from a variety of sources; it is hoped, in particular, to provide programs of use to schools and colleges, and to transmit some programs sent in by users. The Viewdata terminal will give access to a range of telesoftware and communications facilities available by cable.
+
+FUTURE BBC BROADCAST SERIES
+
+'The Computer Programme' and 'Make the Most of your Micro' will be repeated again from the autumn of 1983 onwards; details of these transmissions are yet to be decided. In addition, five programmes for teachers, 'Micros in Education', are to be transmitted on Mondays on BBC-2, at 1530, from February 14th to March 14th 1983, and repeated on BBC-1 on Sunday mornings at 1030, from May 1st to May 29th. Plans are in hand for further series on computing for home users, for 1984 and 1985.
+
+Ten radio programmes 'Electronics and Microelectronics', of which five are supported by radiovision, are being provided for schools in Autumn 1982. The programmes, designed for 14-16 year olds, will relate basic school electricity to solid state electronics. The programmes are broadcast weekly on Radio 4 VHF at 1140 from September 22nd 1982. There is a strong practical element, supported by a kit of parts, available from Stem Walton Unit, 65 Walton Lane, Liverpool L4 4HG. A further five part radio series for secondary schools, 'Computers in the Real World', is to be transmitted on Radio 4 VHF at 1140 from January 12th 1983 (not Scotland). Teachers notes and film strips to accompany these series are available from BBC Publications, 144-152 Bermondsey Street, London SE1 3TH.
+
+Also for schools, a new five part television series for 13-16 year olds, 'Computer Club', which looks at computing through problem solving, is being provided in early Summer 1983. It will be transmitted on Tuesdays on BBC-1, fortnightly at 1117, from April 26th, and repeated on Thursdays at 1440 from April 28th.
+
+REFERRAL AND INFORMATION SERVICE
+
+A postal referral service is available in association with the series, to put viewers in touch with local sources of advice and help, and provide information about the project. This is being provided by Broadcasting support Services. A range of leaflets is available, various familiarisation and training courses are being developed in association with the project, and the BBC is in touch with an extensive network of people who are active in the field. Details of these will be provided on request.
+
+All enquiries about any aspect of the Computer Literacy Project should be sent to:
+
+BBC COMPUTER LITERACY PROJECT,
+BROADCASTING SUPPORT SERVICES,
+P.O. BOX 7,
+LONDON W3 6XJ.
+
+PLEASE ENCLOSE A LARGE S.A.E. WITH YOUR ENQUIRY
